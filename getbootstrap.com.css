@@ -50,6 +50,12 @@
  a:hover {
  	color: #16b1d0;
  }
+ 
+ /* Buttons */
+ .btn-outline {
+ 	border-color: #c9bbdd;
+ 	color: #c9bbdd;
+ }
 
  /* Footer */
  .bd-footer.text-muted {
