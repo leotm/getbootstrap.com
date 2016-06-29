@@ -5,7 +5,8 @@
  */
 
  /* Background (heavy metal) */
- body, .navbar, .bs-docs-featurette, .bs-glyphicons-list li {
+ body, .navbar, .bs-docs-featurette, .bs-glyphicons-list li,
+ .bd-featurette {
  	background: #272822;
  }
 
@@ -16,7 +17,7 @@
 
  /* All (spring wood) */
  p, h1, h2, h3, h4, li, th, strong, div,
- [class*="col-"] > h3,
+ [class*="col-"] > h3, .bd-featurette-title,
  #import-drop-target > p.lead {
  	color: #F8F8F2;
  }
