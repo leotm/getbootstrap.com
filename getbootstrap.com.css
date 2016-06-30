@@ -18,7 +18,7 @@
  /* All (spring wood) */
  p, h1, h2, h3, h4, li, th, strong, div,
  [class*="col-"] > h3, .bd-featurette-title,
- #import-drop-target > p.lead {
+ #import-drop-target > p.lead, .post-title > a {
  	color: #F8F8F2;
  }
  /* [forced] */
